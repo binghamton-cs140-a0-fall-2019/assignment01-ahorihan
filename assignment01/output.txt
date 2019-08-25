@@ -1,0 +1,6 @@
+
+TESTS FOR Computer.java:
+Mac, Core i7, 8GB Memory, 500GB Solid State Drive, Price: $750.00 
+Dell, Core i5, 8GB Memory, 750GB Hard Drive, Price: $500.00 
+Asus, Core i9, 12GB Memory, 1.2TB Solid State Drive, Price: $1150.00 
+HP, Core i9, 10GB Memory, 1.1TB Hard Drive, Price: $999.00 
