@@ -1,15 +1,3 @@
+ignore this file, it was made by mistake
 
-TESTS FOR DateAndPlaceOfBirth.java:
-Date and place of birth: 2001-01-13, Rochester, New York, USA
-Date and place of birth: 1997-06-18, Los Angeles, California, USA
-Date and place of birth: 2003-06-18, Albany, New York, USA
-Date and place of birth: 1997-06-18, Paris, France
-Date and place of birth: 2001-10-25, Toronto, Canada
-false
-true
-false
-true
-true
-false
-true
-false
+

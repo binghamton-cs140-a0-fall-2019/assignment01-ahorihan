@@ -4,3 +4,25 @@ Mac, Core i7, 8GB Memory, 500GB Solid State Drive, Price: $750.00
 Dell, Core i5, 8GB Memory, 750GB Hard Drive, Price: $500.00 
 Asus, Core i9, 12GB Memory, 1.2TB Solid State Drive, Price: $1150.00 
 HP, Core i9, 10GB Memory, 1.1TB Hard Drive, Price: $999.00 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2001-01-13, Rochester, New York, USA
+Date and place of birth: 1997-06-18, Los Angeles, California, USA
+Date and place of birth: 2003-06-18, Albany, New York, USA
+Date and place of birth: 1997-06-18, Paris, France
+Date and place of birth: 2001-10-25, Toronto, Canada
+false
+true
+false
+true
+true
+false
+true
+false
+
+TESTS FOR StreetUSAddress.java:
+1234 Main Street
+300 Elm Street
+Albany, NY 12201
+6694 Setters Run
+Victor, NY 14564
