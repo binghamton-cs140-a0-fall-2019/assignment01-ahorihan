@@ -26,3 +26,16 @@ TESTS FOR StreetUSAddress.java:
 Albany, NY 12201
 6694 Setters Run
 Victor, NY 14564
+
+TESTS FOR Person.java:
+Andrew Horihan(1234-56-7890),
+
+Date and place of birth: 2001-01-13, Victor, NY, USA
+
+123 Main Street
+
+Binghamton, NY 13901
+
+TESTS FOR SimpleDateTester.java:
+true
+false
