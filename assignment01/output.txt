@@ -39,3 +39,15 @@ Binghamton, NY 13901
 TESTS FOR SimpleDateTester.java:
 true
 false
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Andrew Horihan(1234-56-7890),
+Date and place of birth: 2001-01-13, Victor, NY, USA
+123 Main Street
+Binghamton, NY 13901
+Computers: [Mac, Core i7, 8GB Memory, 500GB Solid State Drive, Price: $750.00 , Dell, Core i5, 8GB Memory, 750GB Hard Drive, Price: $500.00 , Asus, Core i9, 12GB Memory, 1.2TB Solid State Drive, Price: $1150.00 , HP, Core i9, 10GB Memory, 1.1TB Hard Drive, Price: $999.00 ]
+Computer List, Owner: Andrew Horihan(1234-56-7890),
+Date and place of birth: 2001-01-13, Victor, NY, USA
+123 Main Street
+Binghamton, NY 13901
+Computers: [Dell, Core i5, 8GB Memory, 750GB Hard Drive, Price: $500.00 , HP, Core i9, 10GB Memory, 1.1TB Hard Drive, Price: $999.00 ]
